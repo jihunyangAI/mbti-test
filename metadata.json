@@ -1,0 +1,6 @@
+{
+  "name": "MBTI성향 테스트",
+  "description": "12가지 일상 질문으로 알아보는 1030 취향저격 MBTI성향 테스트",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
