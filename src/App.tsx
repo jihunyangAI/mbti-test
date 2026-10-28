@@ -247,15 +247,6 @@ ${url.toString()}`;
                 >
                   테스트 시작하기 🚀
                 </button>
-
-                <a
-                  href="/mbti-test-project.zip"
-                  download="mbti-test-project.zip"
-                  className="w-full py-3 px-4 bg-slate-100 hover:bg-slate-200 text-slate-700 font-bold text-xs rounded-2xl transition-all flex items-center justify-center gap-2 cursor-pointer border border-slate-200/80"
-                >
-                  <span>📦</span>
-                  <span>깃허브 업로드용 전체 소스코드(ZIP) 다운로드</span>
-                </a>
               </div>
 
               <div className="mt-6 pt-5 border-t border-slate-100 flex items-center justify-center gap-4 text-xs text-slate-600 font-medium">
@@ -520,15 +511,6 @@ ${url.toString()}`;
       {/* Footer */}
       <footer className="py-4 text-center text-xs text-slate-600 space-y-1">
         <div>© 2026 MBTI성향 테스트 · 1030 취향저격 일상 테스트</div>
-        <div>
-          <a
-            href="/mbti-test-project.zip"
-            download="mbti-test-project.zip"
-            className="text-amber-800 hover:text-amber-950 font-semibold underline underline-offset-2"
-          >
-            📦 소스코드 ZIP 다운로드
-          </a>
-        </div>
       </footer>
     </div>
   );
