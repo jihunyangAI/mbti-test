@@ -2,6 +2,12 @@
 <img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
 </div>
 
+## 🌐 배포 주소
+
+**https://jihunyangai.github.io/mbti-test/**
+
+`main` 브랜치에 푸시하면 GitHub Actions가 자동으로 빌드해 GitHub Pages에 배포합니다.
+
 # Run and deploy your AI Studio app
 
 This contains everything you need to run your app locally.
